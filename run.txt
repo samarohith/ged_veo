@@ -1,0 +1,9 @@
+Compilation:
+
+g++ filter.cpp  astar.cpp graph.cpp path_join.cpp path_search.cpp set_cover.cpp misc.cpp main.cpp -o gsim
+
+
+
+
+Run
+./gsim -m0 -o1 -t2 protein.db 2 1
